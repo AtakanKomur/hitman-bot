@@ -1,0 +1,37 @@
+{
+  "name": "hitman",
+  "version": "1.0.0",
+  "description": "Public bot for fun/moderation/ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atakankomur/hitman-bot.git"
+  },
+  "keywords": [
+    "Ticket",
+    "Moderation",
+    "Fun",
+    "Public",
+    "Discord",
+    "Bot",
+    "Client",
+    "Bot",
+    "DiscordBot",
+    "Developer"
+  ],
+  "author": "Atakan#0037",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atakankomur/hitman-bot/issues"
+  },
+  "homepage": "https://github.com/atakankomur/hitman-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
